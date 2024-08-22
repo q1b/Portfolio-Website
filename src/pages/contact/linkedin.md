@@ -1,5 +1,5 @@
 ---
 title: Linkedin
 icon: carbon:logo-linkedin
-url: https://www.linkedin.com/
+url: https://in.linkedin.com/in/vishrut-k
 ---
