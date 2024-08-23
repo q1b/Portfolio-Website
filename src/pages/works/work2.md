@@ -1,22 +1,19 @@
 ---
-title: Tactical Team Leader
-date: 1985 - 1990
-url: http://atawajof.dz/vonilzor
-location: Los Angeles, California
-org: Los Angeles County Sheriff's Department – SWAT Division
+title: Intern
+date:  June 2023 - August 2023
+
+location: Surat, IN
+org: Swami Integrators and consultants LLP
 tags:
   [
-    "SWAT",
-    "Surveillance",
-    "Undercover Operations",
-    "Evidence Gathering",
-    "Case Solving",
-    "Interviewing Skills",
+    "Web-Dev",
+    "Figma",
+    "Lead generation",
+    "Operations management"
   ]
 ---
 
-- Led SWAT operations in high-risk situations, including hostage rescues, armed standoffs, and counter-terrorism missions.
-- Developed and implemented tactical plans tailored to specific scenarios, ensuring the safety of hostages, civilians, and law enforcement personnel.
-- Conducted specialized training for SWAT team members in firearms proficiency, close-quarters combat, tactical movement, and hostage negotiation.
-- Coordinated with local, state, and federal agencies to support joint operations and enhance interagency cooperation.
-- Provided expertise and assistance in the planning and execution of high-profile security details for visiting dignitaries, VIPs, and major events.
+- Designed a website for the business and developed and learned about integration of cost calculator
+- Using data and zoning analysis on company to get information helping in developing a maintenance strategy
+- Attended a seminar by Havells which discussed on the new technologies in the industry helping in grid
+integration and energy management

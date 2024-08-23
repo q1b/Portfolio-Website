@@ -1,15 +1,16 @@
 ---
-title: Bachelor of Science in Criminal Justice
-location: University of California, Los Angeles (UCLA)
+title: Bachelor of Technology in Computer Science (AI & ML)
+location: Bhubaneshwar, IN
 url: http://foeberoz.gm/kuj
-institute: University of California
-date: 1970-1975
+institute: SRI SRI UNIVERSITY
+date: 2021-25
 tags:
   [
-    "Criminal Justice",
-    "Law Enforcement",
-    "Legal Studies",
-    "Public Safety",
-    "Court System",
+    "AI",
+    "ML",
+    "OS",
+    "Advanced Statistics",
+    "Python",
+    "Web Applications"
   ]
 ---
