@@ -1,7 +1,7 @@
 ---
 title: Intern
 date: May 2024 - August 2024
-location: Bengaluru,IN 
+location: Bengaluru, IN 
 org: Verse Innovation Private Limited (Dailyhunt & Josh)
 tags: ["Intern", "AI", "Dev", "Analyst"]
 ---

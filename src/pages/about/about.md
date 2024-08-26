@@ -2,9 +2,8 @@
 title: about
 name: "Vishrut Kumar"
 designation: "Ex-Intern at Dailyhunt"
-location: Bengaluru ,IN 
+location: Bengaluru , IN 
 pronouns: "he/him"
-website: "http://tafutza.hn/kos"
 ---
 
 I have excelled in data-driven roles, leading impactful projects during my internship at Dailyhunt as an AI model analyst, predictive maintenance in my sophomore year ,loan default prediction in my semi-final year by utilizing Python and it's advanced libraries. Proficient in data analytics and
