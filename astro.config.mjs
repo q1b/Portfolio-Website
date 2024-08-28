@@ -6,5 +6,6 @@ import { defineConfig } from 'astro/config';
 // https://astro.build/config
 export default defineConfig({
   integrations: [tailwind(), icon(), compress()],
-  output: "static",  // Ensure output is set to static
+  output: "static",
+  site: 'https://kumarthevishrut.github.io',  // Ensure output is set to static
 });
