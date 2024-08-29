@@ -1,6 +1,6 @@
 ---
 import { Icon } from "astro-icon/components";
-import * as about from "../pages/about/about.md";
+const about = (await Astro.glob("../pages/about/*.md"))[0];
 ---
 <!-- Move imports outside of the front matter -->
 
