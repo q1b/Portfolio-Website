@@ -5,5 +5,7 @@ import { defineConfig } from 'astro/config';
 
 export default defineConfig({
   integrations: [tailwind(), icon(), compress()],
+  site: 'https://kumarthevishrut.github.io',
+  base: 'Portfolio-Website',
   output: "static", 
 });
