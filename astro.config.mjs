@@ -7,5 +7,8 @@ export default defineConfig({
   integrations: [tailwind(), icon(), compress()],
   site: 'https://kumarthevishrut.github.io',
   base: 'Portfolio-Website',
-  output: "static", 
+  output: "static",
+  build: {
+    assets: 'astro'
+  }
 });
